@@ -89,7 +89,7 @@ Bebas digunakan untuk tujuan pembelajaran dan edukasi. Jika repositori ini berma
 ## ✍️ Author
 
 **Wafa Bila Syaefurokhman**
-_Student of Daruss_
+_Student of Darussalam Gontor_
 [GitHub: MENSTRUE](https://github.com/MENSTRUE)
 
 ---
